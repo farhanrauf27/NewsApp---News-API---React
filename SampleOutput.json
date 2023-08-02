@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jihye Lee",
+      "title": "Yen strengthens on reports of new Bank of Japan governor; Asia markets fall: Live updates - CNBC",
+      "description": "Markets in the Asia-Pacific were set to fall ahead of China's inflation data.",
+      "url": "https://www.cnbc.com/2023/02/10/asia-pacific-chinas-inflation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107192343-1675985077391-gettyimages-1235412304-vcg111285860506.jpeg?v=1675986377&w=1920&h=1080",
+      "publishedAt": "2023-02-10T07:57:00Z",
+      "content": "Fourth-quarter results for both Wynn Resorts and MGM Resort International show that Las Vegas is heating up, according to Wall Street analysts.\r\nBoth casino operators reported revenue that beat expec… [+1092 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Elliot Smith",
+      "title": "UK narrowly avoids recession in back half of 2022 despite December slump - CNBC",
+      "description": "The British economy showed no growth in the final quarter of 2022, but shrunk by 0.5% in December — more than expected by analysts.",
+      "url": "https://www.cnbc.com/2023/02/10/uk-narrowly-avoids-recession-in-back-half-of-2022-despite-december-slump.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106993612-1640336324926-gettyimages-1237400513-AA_23122021_556198.jpeg?v=1676013319&w=1920&h=1080",
+      "publishedAt": "2023-02-10T07:13:03Z",
+      "content": "The U.K. economy showed no growth in the final quarter of 2022, but shrunk by 0.5% in December, more than expected by analysts, according to the country's Office for National Statistics Friday. \r\nThe… [+1855 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Pakistan IMF: Crucial bailout deal eludes negotiators - BBC",
+      "description": "The International Monetary Fund says talks made progress but there's no deal to ward off bankruptcy.",
+      "url": "https://www.bbc.com/news/world-asia-64449037",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/169F2/production/_128585629_steel-gettyimages-1246946659.jpg",
+      "publishedAt": "2023-02-10T06:37:50Z",
+      "content": "Eleventh-hour negotiations between Pakistan and the International Monetary Fund (IMF) have failed to unlock $1.1bn in crucial funds aimed at preventing the country from going bankrupt. \r\nA deepening … [+8449 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Moscow Times" },
+      "author": "Max Delany for AFP",
+      "title": "Hailed as Hero at EU Summit, Zelensky Urges Faster Arms Supplies - The Moscow Times",
+      "description": "Hailed as a European hero on his arrival in Brussels, Ukraine's President Volodymyr Zelensky urged EU leaders to accelerate the promised delivery of modern long-range weapons.  The Ukrainian leader warned during an EU summit Thursday that he could not return …",
+      "url": "https://www.themoscowtimes.com/2023/02/10/hailed-as-hero-at-eu-summit-zelensky-urges-faster-arms-supplies-a80184",
+      "urlToImage": "https://static.themoscowtimes.com/image/og/28/80184__28d06484985f85172ebd1a0fdca32bb7.jpg",
+      "publishedAt": "2023-02-10T06:34:21Z",
+      "content": "Hailed as a European hero on his arrival in Brussels, Ukraine's President Volodymyr Zelensky urged EU leaders to accelerate the promised delivery of modern long-range weapons. \r\nThe Ukrainian leader … [+4825 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Simone McCarthy, Nectar Gan, Wayne Chang",
+      "title": "China's balloons are part of a strategy to beat the US on a new battlefield: 'near space - CNN",
+      "description": "In China's eyes, the newest superpower battlefield sits between 12 and 60 miles above the Earth's surface in a thin-aired layer of the atmosphere it calls \"near space.\"",
+      "url": "https://www.cnn.com/2023/02/09/china/china-balloon-near-space-development-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230209114858-spy-baloon-020423.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-02-10T06:15:00Z",
+      "content": "In Chinas eyes, the newest superpower battlefield sits between 12 and 60 miles above the Earths surface in a thin-aired layer of the atmosphere it calls near space.\r\nLying above the flightpaths of mo… [+9166 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Sarah Rumpf",
+      "title": "New Jersey student ends her life after months of bullying, video of school hallway beating circulates online - Fox News",
+      "description": "A fourteen year old high school student from New Jersey ended her life after a shocking video was circulated at her local high school.",
+      "url": "https://www.foxnews.com/us/new-jersey-student-ends-life-months-bullying-video-school-hallway-beating-circulates-online",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/AK5.png",
+      "publishedAt": "2023-02-10T05:36:00Z",
+      "content": "This story may contains details that are disturbing. If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 988.\r\nA 14-year-old girl from… [+3777 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": null,
+      "title": "Macron weighs kicking Putin out of French Legion of Honor - The Associated Press - en Español",
+      "description": "BRUSSELS (AP) — Ukraine’s wartime leader Volodymyr Zelenskyy has now been bestowed with France’s highest medal of honor. But there’s a problem: Russian President Vladimir Putin has the same medal. French President Emmanuel Macron pinned the Grand Cross of the…",
+      "url": "https://apnews.com/article/putin-zelenskyy-politics-france-government-russia-00fd85202c80dbd5c03a933ce0a293c5",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0fdbf1cca7e049c7bbe5eec6259ea28a/3000.webp",
+      "publishedAt": "2023-02-10T04:39:15Z",
+      "content": "BRUSSELS (AP) Ukraines wartime leader Volodymyr Zelenskyy has now been bestowed with Frances highest medal of honor. But theres a problem: Russian President Vladimir Putin has the same medal.\r\nFrench… [+933 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Jeff Legwold",
+      "title": "Ronde Barber, Darrelle Revis, DeMarcus Ware lead defense-centric Pro Football HOF class - ESPN",
+      "description": "A defense-dominated nine-member Pro Football Hall of Fame class of 2023 includes Ronde Barber, Darrelle Revis, DeMarcus Ware, Zach Thomas, Joe Thomas and Joe Klecko.",
+      "url": "https://www.espn.com/nfl/story/_/id/35626892/ronde-barber-darrelle-revis-demarcus-ware-lead-defense-centric-pro-football-hof-class",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F1228%2Fr166530_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-02-10T04:30:00Z",
+      "content": "With a rare lean toward defense, the Pro Football Hall of Fame's class of 2023 features two of the best cornerbacks in league history, one of the all-time sack leaders and a linebacker who frustrated… [+6283 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "SpaceX fires up giant Starship rocket engines in key test - Al Jazeera English",
+      "description": "The test of the Starship’s engines may have set a record for the most thrust ever produced by a single space rocket.",
+      "url": "https://www.aljazeera.com/news/2023/2/10/spacex-test-fires-giant-starship-rocket-engines-in-key-test",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/338W7T3-preview.jpg?resize=1920%2C1073",
+      "publishedAt": "2023-02-10T04:04:36Z",
+      "content": "SpaceX has conducted a successful test-firing of the engines on the most powerful rocket ever built, designed to eventually send astronauts to the Moon and Mars.\r\nThe test on Thursday, called a stati… [+3466 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Philadelphia Inquirer" },
+      "author": "Gina Mizell",
+      "title": "From Kevin Durant to Josh Hart: How NBA trade deadline moves indirectly impact the Sixers' path - The Philadelphia Inquirer",
+      "description": "A flurry of league-wide moves — including multiple blockbusters — stamped the past few days and could shift the title chase.",
+      "url": "https://www.inquirer.com/sixers/sixers-nba-trade-deadline-kevin-durant-suns-bucks-knicks-20230209.html",
+      "urlToImage": "https://www.inquirer.com/resizer/I1Ogx6fciB60-Sk3eRcHN4EOjM8=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/YG2TTVEMTVEPLOXT2XXXMI4WXE.jpg",
+      "publishedAt": "2023-02-10T03:54:18Z",
+      "content": "This NBA trade deadline was far more frenzied than initially anticipated.\r\nNot necessarily because the 76ers, whose only move was trading perimeter defensive stopper Matisse Thybulle to the Portland … [+4923 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Mike Pence summoned to testify in criminal probe of Trump - BBC",
+      "description": "The subpoena is reportedly linked to Mr Trump's bid to overturn his defeat in the 2020 election.",
+      "url": "https://www.bbc.com/news/world-us-canada-64591939",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16A4C/production/_128584729_gettyimages-1246778300.jpg",
+      "publishedAt": "2023-02-10T03:49:58Z",
+      "content": "Former US Vice-President Mike Pence has been issued with a legal summons to testify in a criminal investigation of former President Donald Trump.\r\nThe subpoena is reportedly linked to Mr Trump's bid … [+2253 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Scott Thompson",
+      "title": "Chiefs' Patrick Mahomes wins 2022 NFL MVP ahead of Super Bowl LVII - Fox News",
+      "description": "Kansas City Chiefs star quarterback Patrick Mahomes was announced this season's NFL MVP, winning it for the second time in his career.",
+      "url": "https://www.foxnews.com/sports/chiefs-patrick-mahomes-wins-2022-nfl-mvp-ahead-super-bowl-lvii",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/bbf02a72-Patrick-Mahomes.jpg",
+      "publishedAt": "2023-02-10T03:46:00Z",
+      "content": "Kansas City Chiefs quarterback Patrick Mahomes is collecting hardware before playing in Super Bowl LVII, winning the NFL MVP Award for this season. \r\nThis is the second time Mahomes has been named MV… [+2308 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Mark Kennedy",
+      "title": "Review: Reese Witherspoon, Ashton Kutcher shine in a rom-com - The Associated Press - en Español",
+      "description": "If you decide to settle in and watch “Your Place or Mine”  to see the sparks fly between Reese Witherspoon and Ashton Kutcher, you'll be initially disappointed.",
+      "url": "https://apnews.com/article/your-place-or-mine-film-reviews-movies-ashton-kutcher-reese-witherspoon-01233de63fa7dfbbf65e05994501fdd3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1c66791c6c5047969f2579b15aa6dfe3/3000.webp",
+      "publishedAt": "2023-02-10T03:25:52Z",
+      "content": "If you decide to settle in and watch Your Place or Mine to see the sparks fly between Reese Witherspoon and Ashton Kutcher, youll be initially disappointed. Theyre not in the same room until the last… [+4407 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Baltimore" },
+      "author": "Emilie Kyler & Chris Berinato",
+      "title": "Officer shot and injured in the search for Cockeysville suspect, say police - Fox Baltimore",
+      "description": "An officer was shot and injured in the midst of the search for the Cockysville suspect Friday night, according to the Baltimore Police Department.ALSO READ |Of",
+      "url": "https://foxbaltimore.com/news/local/officer-shot-and-injured-in-the-search-for-cockeysville-suspect-say-police",
+      "urlToImage": "https://foxbaltimore.com/resources/media/0a270d88-1964-4c7a-a52e-8d4d5b95077c-large16x9_VHELOSHOCKTRAUMArender.transfer_frame_792.jpeg?1676009085175",
+      "publishedAt": "2023-02-10T03:15:27Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jamiel Lynch, Shimon Prokupecz, Theresa Waldrop",
+      "title": "Memphis police officer lied in statements about Tyre Nichols incident, police documents say - CNN",
+      "description": "Another of the Memphis officers involved in the traffic stop of Tyre Nichols, a Black man who died days after being viciously beaten by police last month, lied in statements to investigators about the incident, a police document claims.",
+      "url": "https://www.cnn.com/2023/02/09/us/tyre-nichols-county-da-to-review-officer-cases/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230126135729-memphis-officers-nichols-mugshots-split.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-02-10T03:11:00Z",
+      "content": "Another of the Memphis officers involved in the traffic stop of Tyre Nichols, a Black man who died days after being viciously beaten by police last month, lied in statements to investigators about th… [+5386 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Melissa Rudy",
+      "title": "Women more likely to suffer from ‘long COVID,’ but healthy habits can lower the risk - Fox News",
+      "description": "Women who embrace six healthy lifestyle factors can cut their long COVID risk in half, per a new study led by Harvard T.H. Chan School of Public Health. Here's what to know and why.",
+      "url": "https://www.foxnews.com/health/women-long-covid-healthy-habits-lower-risk",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Woman-Sleep.jpg",
+      "publishedAt": "2023-02-10T02:40:00Z",
+      "content": "When 33-year-old Katie Timmerman tested positive for COVID-19 in January 2022, the busy vice president of a PR firm in Oklahoma City, Oklahoma, figured shed be sick for a few days. \r\nHer only symptom… [+7506 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PEOPLE" },
+      "author": "https://www.facebook.com/peoplemag",
+      "title": "Tori Roloff Gives an Update on Zach After He Undergoes Brain Surgery - PEOPLE",
+      "description": "After undergoing shunt revision surgery, Tori Roloff said in an Instagram update that her husband Zach is awake and recovering.",
+      "url": "https://people.com/health/tori-roloff-gives-an-update-on-husband-zach-after-he-undergoes-brain-surgery/",
+      "urlToImage": "https://people.com/thmb/rF9dcHvWMbVhkT8vySzMzaRIK2M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Zach-Roloff-Post-Brain-Surgery-20230209_40-2000-0a38151705d74b75aabee6a08b7add33.jpg",
+      "publishedAt": "2023-02-10T02:22:00Z",
+      "content": "Zach Roloff is awake and recovering from brain surgery.\r\nAfter the Little People, Big World star, 32, underwent an emergency shunt revision on Thursday morning, his wife Tori Roloff shared that Zach … [+2057 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": null,
+      "title": "DC police arrest suspect in assault of Rep. Angie Craig - The Hill",
+      "description": null,
+      "url": "https://thehill.com/homenews/house/3852178-dc-police-arrest-suspect-in-assault-of-rep-angie-craig/",
+      "urlToImage": null,
+      "publishedAt": "2023-02-10T01:59:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": "Around the NFL Staff",
+      "title": "List of 'NFL Honors' award winners from 2022 NFL season - NFL.com",
+      "description": "The NFL celebrated another year of excellence around the league on Thursday night at the 12th annual NFL Honors. Here is the complete list of winners announced at Phoenix’s Symphony Hall.",
+      "url": "https://www.nfl.com/news/running-list-of-nfl-honors-award-winners-from-2022-nfl-season",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/uwlzxfwe202dx3kxkvsf",
+      "publishedAt": "2023-02-10T01:39:00Z",
+      "content": "The NFL celebrated another year of excellence around the league on Thursday night at the 12th annual NFL Honors.\r\nHosted by Kelly Clarkson, the first woman to lead the event in its history, the show … [+443 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Baby born in rubble of Syria earthquake is named Aya and given a home - The Guardian",
+      "description": "Great uncle will look after baby whose mother died in the wreckage of their home, as teenager pulled alive from house in Turkey, days after quake",
+      "url": "https://www.theguardian.com/world/2023/feb/10/baby-aya-syria-earthquake-newborn-name",
+      "urlToImage": "https://i.guim.co.uk/img/media/5f6e186562f8282aca871e299a1f73028999a844/0_128_3829_2298/master/3829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e163d5ff459e0eb7620257257f82f31",
+      "publishedAt": "2023-02-10T01:14:00Z",
+      "content": "A Syrian baby girl whose mother died after giving birth to her under the rubble of their home during this weeks earthquake now has a name: Aya, Arabic for a sign from God.\r\nWith her parents and all h… [+3378 chars]"
+    }
+  ]
+}
